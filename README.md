@@ -4,19 +4,17 @@
 
 <div align="center">
 
-<h3>
-FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
-</h3>
-
 **2K resolution image generation with on single 3090 GPU** 🏔️
-
 <img src="assets/teaser.jpg" style="border-radius: 15px">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cshguo.FastVAR)
-[![arXiv](https://img.shields.io/badge/arXiv-2503.23367-b31b1b.svg)](https://arxiv.org/pdf/2503.23367)
+<h2>
+FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
+</h2>
 
 [Hang Guo](https://csguoh.github.io/), [Yawei Li](https://yaweili.bitbucket.io/), [Taolin Zhang](https://github.com/taolinzhang),  [Jiangshan Wang](https://scholar.google.com.hk/citations?user=HoKoCv0AAAAJ&hl=zh-CN&oi=ao), [Tao Dai](https://scholar.google.com.hk/citations?user=MqJNdaAAAAAJ&hl=zh-CN&oi=ao), [Shu-Tao Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=koAXTXgAAAAJ), [Luca Benini](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cshguo.FastVAR)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.23367-b31b1b.svg)](https://arxiv.org/pdf/2503.23367)
 
 </div>
 
@@ -26,17 +24,20 @@ FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
 
 ⭐If this work is helpful for you, please help star this repo. Thanks!🤗
 
-1️⃣**Faster VAR Genration without Perceptual Loss** 
+1️⃣ **Faster VAR Generation without Perceptual Loss** 
 
 <p align="center">
     <img src="assets/visual.jpg" style="border-radius: 15px">
 </p>
-2️⃣**High-resolution Image Genration (even 2K image on single 3090 GPU)**
+
+2️⃣ **High-resolution Image Generation (even 2K image on single 3090 GPU)**
 
 <p align="center">
     <img src="assets/high_resolution.jpg" style="border-radius: 15px">
 </p>
-3️⃣**Promising Resolution Scalibility (almost linear complexity)**
+
+
+3️⃣ **Promising Resolution Scalibility (almost linear complexity)** 
 
 <p align="center">
     <img src="assets/efficiency.jpg" width="600" style="border-radius: 15px">
@@ -63,9 +64,10 @@ FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
 - [ ] Release code
 - [ ] Further improvements
 
-## <a name="results"></a> 🥇 Pipeline
 
-Our FastVAR introduces the "cached token pruning" which works on the large-scale steps of the VAR models, which is training-free and generic for various VAR backbones.
+## <a name="pipeline"></a> 👀 Pipeline
+
+Our FastVAR introduces the **"cached token pruning"** which works on the large-scale steps of the VAR models, which is **training-free** and **generic** for various VAR backbones.
 
 <p align="center">
     <img src="assets/pipeline.jpg" style="border-radius: 15px">
