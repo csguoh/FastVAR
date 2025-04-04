@@ -24,6 +24,9 @@ FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
 
 ⭐If this work is helpful for you, please help star this repo. Thanks!🤗
 
+## ✨ Highlights
+
+
 1️⃣ **Faster VAR Generation without Perceptual Loss** 
 
 <p align="center">
