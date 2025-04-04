@@ -84,7 +84,7 @@ Our FastVAR can achieve **2.7x** speedup with **<1%** performance drop, even on 
 Detailed results can be found in the paper.
 
 <details>
-<summary>Quantitative Results on the GenEval benchmatk(click to expand)</summary>
+<summary>Quantitative Results on the GenEval benchmark(click to expand)</summary>
 
 <p align="center">
   <img width="900" src="assets/results.jpg">
@@ -93,7 +93,7 @@ Detailed results can be found in the paper.
 
 
 <details>
-<summary>Quantitative Results on the MJHQ30K benchmatk (click to expand)</summary>
+<summary>Quantitative Results on the MJHQ30K benchmark (click to expand)</summary>
 
 <p align="center">
   <img width="500" src="assets/results2.jpg">
