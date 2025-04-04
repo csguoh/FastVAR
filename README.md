@@ -57,8 +57,8 @@ FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
 
 ## <a name="news"></a> 🆕 News
 
-- **2023-12-12:** arXiv paper available.
-- **2023-12-16:** This repo is released.
+- **2025-03-30:** arXiv paper available.
+- **2025-04-04:** This repo is released.
 
 
 ## <a name="todo"></a> ☑️ TODO
