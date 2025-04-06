@@ -126,7 +126,7 @@ Please cite us if our work is useful for your research.
 
 ## License
 
-Since this work based on the pre-trained VAR models, users should follow the license of the corresponding backbone models like [HART(MIT License)](https://github.com/mit-han-lab/hart) and [Infinite(MIT License)](https://github.com/FoundationVision/Infinity?tab=readme-ov-file). 
+Since this work based on the pre-trained VAR models, users should follow the license of the corresponding backbone models like [HART(MIT License)](https://github.com/mit-han-lab/hart) and [Infinity(MIT License)](https://github.com/FoundationVision/Infinity?tab=readme-ov-file). 
 
 
 ## Contact
