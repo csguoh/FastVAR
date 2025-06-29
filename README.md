@@ -111,7 +111,7 @@ Detailed results can be found in the paper.
 
 
 
-# Core Algorithm
+## 🎈Core Algorithm
 
 For learning purpose, we provide the core algorithm of our FastVAR as follows (one may find the complete code in [this line]()). Since our FastVAR is a general technology, other VAR-based models also potentially apply.
 
@@ -141,11 +141,11 @@ def masked_previous_scale_cache(cur_x, num_remain, cur_shape):
 
 
 
-# Get Started
+## 💪Get Started
 
 We apply our FastVAR on two Text-to-Image VAR models, i.e., [Infinity](https://github.com/FoundationVision/Infinity) and [HART](https://github.com/mit-han-lab/hart). The code for the two models can be found in respective folders. For conda environment and related pre-trained LLM/VLM models, we suggest users to refer to the setup in original [Infinity](https://github.com/FoundationVision/Infinity) and [HART](https://github.com/mit-han-lab/hart) repos. In practice, we find both codebase can be compatible to the other. 
 
-## 1. FastVAR for Infinity Acceleration
+### 1. FastVAR for Infinity Acceleration
 
 First cd into the Infinity folder
 
@@ -161,7 +161,7 @@ python inference.py
 
 If you additionally want to reproduce the reported results in our paper, like GenEval, MJHQ30K, HPSv2.1, and image reward, you may refer to the detailed instruction in [this file](), which contains all necessary command to run respective experiments.
 
-## 2. FastVAR for HART Acceleration
+### 2. FastVAR for HART Acceleration
 
 First cd into the HART folder
 
