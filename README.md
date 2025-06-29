@@ -159,7 +159,7 @@ Then you can adjust pre-trained Infinity backbone weights and then run text-to-i
 python inference.py
 ```
 
-If you additionally want to reproduce the reported results in our paper, like GenEval, MJHQ30K, HPSv2.1, and image reward, you may refer to the detailed instruction in [this file](), which contains all necessary command to run respective experiments.
+If you additionally want to reproduce the reported results in our paper, like GenEval, MJHQ30K, HPSv2.1, and image reward, you may refer to the detailed instruction in [this file](https://github.com/csguoh/FastVAR/blob/main/Infinity/evaluation/README.md), which contains all necessary command to run respective experiments.
 
 ### 2. FastVAR for HART Acceleration
 
@@ -178,7 +178,7 @@ python inference.py --model_path /path/to/model \
    --sample_folder_dir /path/to/save_dir
 ```
 
-For evaluating HART on common benchmarks, please refer to this file, which is basicly similar to Infinity model.
+For evaluating HART on common benchmarks, please refer to [this file](https://github.com/csguoh/FastVAR/blob/main/HART/evaluation/README.md), which is basicly similar to Infinity model.
 
 
 
