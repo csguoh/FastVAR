@@ -7,7 +7,7 @@
 <img src="assets/teaser.jpg" style="border-radius: 15px">
 
 <h2>
-FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
+FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning (ICCV25)
 </h2>
 
 [Hang Guo](https://csguoh.github.io/), [Yawei Li](https://yaweili.bitbucket.io/), [Taolin Zhang](https://github.com/taolinzhang),  [Jiangshan Wang](https://scholar.google.com.hk/citations?user=HoKoCv0AAAAJ&hl=zh-CN&oi=ao), [Tao Dai](https://scholar.google.com.hk/citations?user=MqJNdaAAAAAJ&hl=zh-CN&oi=ao), [Shu-Tao Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=koAXTXgAAAAJ), [Luca Benini](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html)
@@ -58,7 +58,8 @@ FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning
 
 - **2025-03-30:** arXiv paper available.
 - **2025-04-04:** This repo is released.
-
+- **2025-06-26:** Congrats! Our FastVAR has been accepted by ICCV2025 😊
+- **2025-06-29:** We have open sourced all our code.
 
 ## <a name="todo"></a> ☑️ TODO
 
